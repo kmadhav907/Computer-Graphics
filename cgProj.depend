@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620045180 source:/home/ubuntu/cgProj/main.c
+	<GL/glut.h>
+	<string.h>
+
